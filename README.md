@@ -4,8 +4,8 @@
 
 ## Навигация
 
-- [Creating, cloning, pushing and pulling repositories](#Git)
-- [Working with files and directories](#Bash)
+- [Git command](#Git)
+- [Bash command](#Bash)
 
 ## Git
 
